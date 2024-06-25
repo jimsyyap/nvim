@@ -4,7 +4,6 @@ my customized version of LazyVim
 
 ## TODO
 
-- text.lua seems to be culprit modifiable error
 - upon update, getting error, colorscheme not found. reinstall lazynvim, adding old configs step at a time
 - missing droids could be in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
 - left sidebar with numbers too wide? How to fix (actually, not so bad)
@@ -13,6 +12,7 @@ my customized version of LazyVim
 
 ### change/updates
 
+- text.lua seems to be culprit modifiable error. Fix? mv file to ftdetect...joy
 - test plugins/disabled.lua, disabled gitsigns. After save, the thing on left sidebar doesnt show anymore. Joy?
 - MasonInstalled clangd, tsserver 18jun2024
 - updated ai.lua for codeium keymaps 16jun2024
