@@ -4,14 +4,13 @@ my customized version of LazyVim
 
 ## TODO
 
-- upon update, getting error, colorscheme not found. reinstall lazynvim, adding old configs step at a time
-- missing droids could be in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
 - left sidebar with numbers too wide? How to fix (actually, not so bad)
-- Create colorscheme.lua for all color config
+- Create colorscheme.lua for all color config...tokyonight no joy
 - Howto colorscheme flavor of the month?
 
 ### change/updates
 
+- missing droids in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
 - text.lua seems to be culprit modifiable error. Fix? mv file to ftdetect...
 - test plugins/disabled.lua, disabled gitsigns. After save, the thing on left sidebar doesnt show anymore. Joy?
 - MasonInstalled clangd, tsserver 18jun2024
@@ -31,4 +30,4 @@ my customized version of LazyVim
 - line numbers and relative numbers are off. Didnt fix redraw issue
 - *you've seen the oil.nvim tutorial...not relevant at this time.
 - copilotchat not installed, enabled...not working, no joy
- - codeium &chat, no joy
+- codeium &chat, no joy
