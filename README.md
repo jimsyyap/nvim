@@ -12,7 +12,7 @@ my customized version of LazyVim
 
 ### change/updates
 
-- text.lua seems to be culprit modifiable error. Fix? mv file to ftdetect...joy
+- text.lua seems to be culprit modifiable error. Fix? mv file to ftdetect...
 - test plugins/disabled.lua, disabled gitsigns. After save, the thing on left sidebar doesnt show anymore. Joy?
 - MasonInstalled clangd, tsserver 18jun2024
 - updated ai.lua for codeium keymaps 16jun2024
