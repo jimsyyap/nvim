@@ -4,7 +4,6 @@ my customized version of LazyVim
 
 ## TODO
 
-- left sidebar with numbers too wide? How to fix (actually, not so bad)
 - Create colorscheme.lua for all color config...tokyonight no joy
 - Howto colorscheme flavor of the month?
 
