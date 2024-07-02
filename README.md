@@ -9,7 +9,7 @@ my customized version of LazyVim
 
 ### change/updates
 
-- TEST - comment out lazyvim install tokyonight, habamax...colorscheme.lua has tokyonight
+- comment out lazyvim install tokyonight, habamax...colorscheme.lua has tokyonight
 - missing droids in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
 - text.lua seems to be culprit modifiable error. Fix? mv file to ftdetect...
 - test plugins/disabled.lua, disabled gitsigns. After save, the thing on left sidebar doesnt show anymore. Joy?

@@ -1,6 +1,6 @@
 return {
 	{ "catppuccin/nvim" },
-	-- { "folke/tokyonight.nvim", lazy = true, opns = { style = "moon" } },
+	{ "folke/tokyonight.nvim" },
 	{ "sainnhe/sonokai" },
 	{ "sainnhe/everforest" },
 	{ "EdenEast/nightfox.nvim" },
