@@ -21,7 +21,7 @@ vim.g.have_nerd_font = true
 --  For more options, you can see `:help option-list`
 
 -- tab into  space
-vim.opt.expandtab = true
+--vim.opt.expandtab = true
 
 vim.opt.swapfile = false
 --disable swapfiles, 09june2024
@@ -38,7 +38,7 @@ vim.opt.softtabstop = 4
 vim.opt.virtualedit = "block"
 
 -- Make line numbers default
-vim.opt.number = false
+vim.opt.number = true
 -- You can also add relative line numbers, to help with jumping.
 --  Experiment for yourself to see if you like it!
 vim.opt.relativenumber = false
@@ -69,7 +69,7 @@ vim.opt.ignorecase = true
 vim.opt.smartcase = true
 
 -- Keep signcolumn on by default
-vim.opt.signcolumn = "yes"
+--vim.opt.signcolumn = "yes"
 
 -- Decrease update time
 vim.opt.updatetime = 250
