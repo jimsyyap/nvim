@@ -38,7 +38,7 @@ vim.opt.softtabstop = 4
 vim.opt.virtualedit = "block"
 
 -- Make line numbers default
-vim.opt.number = true
+vim.opt.number = false
 -- You can also add relative line numbers, to help with jumping.
 --  Experiment for yourself to see if you like it!
 vim.opt.relativenumber = false
