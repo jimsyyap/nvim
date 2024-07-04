@@ -2,11 +2,12 @@
 -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
 -- Add any additional keymaps here
 
--- research how to nvim transparent_background,
+-- how to nvim transparent_background,
 -- source https://www.reddit.com/r/neovim/comments/1bukmz6/noob_catpuccin_background_not_being_transparent/
 -- added 18/05/2024, no joy but didnt cause error
 vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
 vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
+-- this will just set the background to none so any transparency and blur is done by your terminal or wm
 
 --show codeium status on bottom (didnt work)
 --vim.api.nvim_call_function("codeium#GetStatusString", {})
@@ -146,7 +147,7 @@ vim.keymap.set("n", "<down>", '<cmd>echo "Use j to move!!"<CR>')
 
 -- jimmy desu
 vim.keymap.set("n", ";", ":", { desc = "CMD enter command mode" })
-vim.keymap.set("i", "<C-g>", "<ESC>")
+vim.keymap.set("i", "hh", "<ESC>")
 vim.keymap.set("n", "j", "gj")
 vim.keymap.set("n", "k", "gk")
 vim.keymap.set("v", "j", "gj")
