@@ -147,7 +147,7 @@ vim.keymap.set("n", "<down>", '<cmd>echo "Use j to move!!"<CR>')
 
 -- jimmy desu
 vim.keymap.set("n", ";", ":", { desc = "CMD enter command mode" })
-vim.keymap.set("i", "hh", "<ESC>")
+vim.keymap.set("i", "<S-h><S-h>", "<ESC>")
 vim.keymap.set("n", "j", "gj")
 vim.keymap.set("n", "k", "gk")
 vim.keymap.set("v", "j", "gj")
