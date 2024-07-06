@@ -2,14 +2,14 @@
 
 my customized version of LazyVim
 
-## TODO
+## TODO:
 
-- Create colorscheme.lua for all color config...tokyonight no joy
 - Howto colorscheme flavor of the month?
+- tokyonight no joy
 
 ### change/updates
 
-- tried nvim by typescript, no joy
+- changed i, esc to shh: joy
 - TEST - signcolumn comment out (keymaps.lua)
 - comment out lazyvim install tokyonight, habamax...colorscheme.lua has tokyonight
 - missing droids in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
