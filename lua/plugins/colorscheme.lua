@@ -1,6 +1,6 @@
 return {
 	{ "catppuccin/nvim" },
-	{ "folke/tokyonight.nvim" },
+	--{ "folke/tokyonight.nvim" },
 	{ "sainnhe/sonokai" },
 	{ "sainnhe/everforest" },
 	{ "EdenEast/nightfox.nvim" },

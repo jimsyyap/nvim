@@ -4,13 +4,12 @@ my customized version of LazyVim
 
 ## TODO:
 
-- Howto colorscheme flavor of the month?
 - tokyonight no joy
 
 ### change/updates
 
 - changed i, esc to shh: joy
-- TEST - signcolumn comment out (keymaps.lua)
+- TEST - signcolumn comment out (keymaps.lua), didnt work tokyonight issue
 - comment out lazyvim install tokyonight, habamax...colorscheme.lua has tokyonight
 - missing droids in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
 - text.lua seems to be culprit modifiable error. Fix? mv file to ftdetect...
