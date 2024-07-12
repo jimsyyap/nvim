@@ -96,7 +96,7 @@ vim.opt.inccommand = "split"
 vim.opt.cursorline = false
 
 -- Minimal number of screen lines to keep above and below the cursor.
-vim.opt.scrolloff = 999
+vim.opt.scrolloff = 10
 
 -- this so i can use sorcerer in nvim/colors 12-may2024
 vim.opt.termguicolors = true
