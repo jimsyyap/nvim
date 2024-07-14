@@ -4,10 +4,10 @@ my customized version of LazyVim
 
 ## TODO:
 
-- what happened to error handling? 15july2024
 
 ### change/updates
 
+- error handling fixed inside keymaps.lua 15july2024, also delve (masoninstalled)
 - changed i, esc to hh: joy
 - installed typescript-language-server
 - missing droids in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
