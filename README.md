@@ -4,13 +4,12 @@ my customized version of LazyVim
 
 ## TODO:
 
-- tokyonight no joy
+- what happened to error handling? 15july2024
 
 ### change/updates
 
-- changed i, esc to shh: joy
+- changed i, esc to hh: joy
 - installed typescript-language-server
-- comment out lazyvim install tokyonight, habamax...colorscheme.lua has tokyonight
 - missing droids in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
 - text.lua seems to be culprit modifiable error. Fix? mv file to ftdetect...
 - test plugins/disabled.lua, disabled gitsigns. After save, the thing on left sidebar doesnt show anymore. Joy?
