@@ -5,6 +5,7 @@ my customized version of LazyVim
 ## TODO:
 
 - test gopls, delve
+- check for updates = false (lazy.lua)
 
 ### change/updates
 
