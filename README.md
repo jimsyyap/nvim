@@ -4,10 +4,11 @@ my customized version of LazyVim
 
 ## TODO:
 
+- test gopls, delve
 
 ### change/updates
 
-- error handling fixed inside keymaps.lua 15july2024, also delve (masoninstalled)
+- error handling fixed inside keymaps.lua? 15july2024, also delve (masoninstalled)
 - changed i, esc to hh: joy
 - installed typescript-language-server
 - missing droids in gitsigns.nvim. See https://www.lazyvim.org/plugins/editor
