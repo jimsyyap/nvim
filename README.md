@@ -10,6 +10,7 @@ my customized version of LazyVim
 ### change/updates
 
 - MasonInstall'd inteliphense, blade-formatter for php/blade laravel dev; enabled cmp 15july2024
+- set ftdetect/html.vim to see blade.php as html 15july2024
 - error handling fixed inside keymaps.lua? 15july2024, also delve (masoninstalled)
 - changed i, esc to hh: joy
 - installed typescript-language-server
