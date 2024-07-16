@@ -9,7 +9,7 @@ my customized version of LazyVim
 
 ### change/updates
 
-- MasonInstall'd tlint for php/blade laravel dev; enabled cmp 15july2024
+- MasonInstall'd inteliphense, blade-formatter for php/blade laravel dev; enabled cmp 15july2024
 - error handling fixed inside keymaps.lua? 15july2024, also delve (masoninstalled)
 - changed i, esc to hh: joy
 - installed typescript-language-server
@@ -21,7 +21,7 @@ my customized version of LazyVim
 - added fold.vim to ftdetect. Za toggles fold on indent 16jun2024
 - date autocomplete is in copilot, not nvim-cmp
 - emmet-language-server installed, as required, see emmet.lua
-    . emmet works, remapped copilot from ai.lua
+    : emmet works, remapped copilot from ai.lua
 - stylua.toml indent_type = tabs 09jun2024, as per go fmt
 - replaced lexima with windwp/nvim-autopairs 09jun2024..joy
 - disabled swapfiles, plugins.keymaps
@@ -30,6 +30,7 @@ my customized version of LazyVim
 
 ### just dont
 
+- tlint for php/blade...no joy
 - line numbers and relative numbers are off. Didnt fix redraw issue
 - *you've seen the oil.nvim tutorial...not relevant at this time.
 - copilotchat not installed, enabled...not working, no joy
