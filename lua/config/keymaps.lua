@@ -12,7 +12,7 @@ vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
 --show codeium status on bottom (didnt work)
 --vim.api.nvim_call_function("codeium#GetStatusString", {})
 -- Set to true if you have a Nerd Font installed and selected in the terminal
-vim.g.have_nerd_font = true
+vim.g.have_nerd_font = false
 
 --vim.g.codeium_disable_bindings = 1
 --disables codeium keybindings, then see plugins/codeium.lua
