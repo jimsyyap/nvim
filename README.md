@@ -9,7 +9,8 @@ my customized version of LazyVim
 
 ### change/updates
 
-- turned of nerd-fonts, couldnt find one (keymaps.lua)
+- nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
+- disabled nerd-fonts, couldnt find one (keymaps.lua)
 - MasonInstall'd inteliphense, blade-formatter for php/blade laravel dev; enabled cmp 15july2024
 - set ftdetect/html.vim to see blade.php as html 15july2024
 - error handling fixed inside keymaps.lua? 15july2024, also delve (masoninstalled)
