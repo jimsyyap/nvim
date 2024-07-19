@@ -9,6 +9,7 @@ my customized version of LazyVim
 
 ### change/updates
 
+- masonInstall csharp-language-server
 - nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
 - disabled nerd-fonts, couldnt find one (keymaps.lua)
 - MasonInstall'd inteliphense, blade-formatter for php/blade laravel dev; enabled cmp 15july2024
