@@ -9,6 +9,7 @@ my customized version of LazyVim
 
 ### change/updates
 
+- added uncomment.vim on ftdetect july2024
 - masonInstall csharp-language-server
 - nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
 - disabled nerd-fonts, couldnt find one (keymaps.lua)
