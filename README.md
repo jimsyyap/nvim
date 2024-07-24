@@ -12,13 +12,13 @@ my customized version of LazyVim
 - added uncomment.vim on ftdetect july2024
 - nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
 - MasonInstall
-    - MasonInstall'd inteliphense, blade-formatter for php/blade laravel dev; enabled cmp 15july2024
-    - masonInstall csharp-language-server
-    - installed typescript-language-server
-    - MasonInstalled clangd, tsserver 18jun2024
-    - emmet-language-server installed, as required, see emmet.lua
-    - masoninstalled yaml-language-server
-    - masoninstaled gopls
+    - blade-formatter
+    - typescript-language-server
+    - inteliphense
+    - csharp-language-server
+    - emmet-language-server 
+    - yaml-language-server
+    - gopls
 - set ftdetect/html.vim to see blade.php as html 15july2024
 - error handling fixed inside keymaps.lua? 15july2024, also delve (masoninstalled)
 - changed i, esc to hh: joy
