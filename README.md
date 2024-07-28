@@ -9,6 +9,7 @@ my customized version of LazyVim
 
 ### change/updates
 
+- disabled squiggly lines on spell check -> :set nospell
 - added uncomment.vim on ftdetect july2024
 - nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
 - MasonInstall
