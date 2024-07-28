@@ -19,6 +19,7 @@ my customized version of LazyVim
     - emmet-language-server 
     - yaml-language-server
     - gopls
+    - clangd for malware dev
 - set ftdetect/html.vim to see blade.php as html 15july2024
 - error handling fixed inside keymaps.lua? 15july2024, also delve (masoninstalled)
 - changed i, esc to hh: joy
