@@ -15,9 +15,7 @@ my customized version of LazyVim
 - added uncomment.vim on ftdetect july2024
 - nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
 - MasonInstall
-    - typescript-language-server (lspInfo is joy)
     - blade-formatter
-    - typescript-language-server
     - inteliphense
     - csharp-language-server
     - emmet-language-server 
@@ -40,6 +38,10 @@ my customized version of LazyVim
 
 ### just dont
 
+- typescript-language-server, emmet not working with react
+    . emmet filetype js to html has indent issues
+        . dotcontainer doesnt give you className=container
+    . test prettierd
 - tlint for php/blade...no joy
 - line numbers and relative numbers are off. Didnt fix redraw issue
 - *you've seen the oil.nvim tutorial...not relevant at this time.
