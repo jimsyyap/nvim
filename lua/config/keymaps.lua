@@ -54,7 +54,7 @@ vim.opt.showmode = false
 --  Remove this option if you want your OS clipboard to remain independent.
 --  See `:help 'clipboard'`
 vim.opt.clipboard = "unnamedplus"
---disabled 15july2024
+--vim.opt.clipboard = append({ "unnamedplus" })
 
 -- Enable break indent
 vim.opt.breakindent = true
@@ -150,7 +150,7 @@ vim.keymap.set("t", "<Esc><Esc>", "<C-\\><C-n>", { desc = "Exit terminal mode" }
 
 -- jimmy desu
 vim.keymap.set("n", ";", ":", { desc = "CMD enter command mode" })
-vim.keymap.set("i", "<C-h>", "<ESC>")
+vim.keymap.set("i", "hh", "<ESC>")
 vim.keymap.set("n", "j", "gj")
 vim.keymap.set("n", "k", "gk")
 vim.keymap.set("v", "j", "gj")

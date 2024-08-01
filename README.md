@@ -15,12 +15,13 @@ my customized version of LazyVim
 - added uncomment.vim on ftdetect july2024
 - nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
 - MasonInstall
+    - prettier
     - blade-formatter
     - typescript-language-server
     - inteliphense
     - csharp-language-server
     - emmet-language-server 
-    - yaml-language-server
+    - yaml-language-server (replaced with prettier)
     - gopls
     - clangd for malware dev
 - set ftdetect/html.vim to see blade.php as html 15july2024
