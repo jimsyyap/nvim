@@ -18,10 +18,10 @@ my customized version of LazyVim
     - blade-formatter
     - inteliphense
     - csharp-language-server
-    - emmet-language-server 
     - yaml-language-server (replaced with prettier)
     - gopls
     - clangd for malware dev
+    - typescript-language-server + emmet.lua works ok, but not like vim emmet
 - set ftdetect/html.vim to see blade.php as html 15july2024
 - error handling fixed inside keymaps.lua? 15july2024, also delve (masoninstalled)
 - changed i, esc to hh: joy
@@ -38,10 +38,6 @@ my customized version of LazyVim
 
 ### just dont
 
-- typescript-language-server, emmet not working with react
-    . emmet filetype js to html has indent issues
-        . dotcontainer doesnt give you className=container
-    . test prettierd
 - tlint for php/blade...no joy
 - line numbers and relative numbers are off. Didnt fix redraw issue
 - *you've seen the oil.nvim tutorial...not relevant at this time.
