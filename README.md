@@ -4,7 +4,6 @@ my customized version of LazyVim
 
 ## TODO:
 
-- test gopls, delve
 - check for updates = false (lazy.lua)
 
 ### change/updates
@@ -15,7 +14,6 @@ my customized version of LazyVim
 - added uncomment.vim on ftdetect july2024
 - nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
 - MasonInstall
-    - svelte-language-server
     - blade-formatter
     - inteliphense
     - csharp-language-server
