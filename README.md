@@ -14,6 +14,7 @@ my customized version of LazyVim
 - added uncomment.vim on ftdetect july2024
 - nerdfonts.com, download fira nerd font and noto nerd font. unzip into .local/share/fonts
 - MasonInstall
+    - vue-language-server
     - blade-formatter
     - inteliphense
     - csharp-language-server
