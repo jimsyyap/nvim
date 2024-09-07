@@ -14,7 +14,7 @@ vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
 -- Set to true if you have a Nerd Font installed and selected in the terminal
 vim.g.have_nerd_font = true
 
---vim.g.codeium_disable_bindings = 1
+vim.g.codeium_disable_bindings = 1
 --disables codeium keybindings, then see plugins/codeium.lua
 -- [[ Setting options ]]
 -- See `:help vim.opt`
