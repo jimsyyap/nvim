@@ -22,7 +22,7 @@ return {
 
 			-- Optional: Customize Codeium
 			vim.g.codeium_enabled = true
-			vim.g.codeium_idle_delay = 75 -- Adjust delay (in ms) before Codeium starts suggesting
+			vim.g.codeium_idle_delay = 50 -- Adjust delay (in ms) before Codeium starts suggesting
 		end,
 	},
 }
