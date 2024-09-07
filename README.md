@@ -8,6 +8,7 @@ my customized version of LazyVim
 
 ### change/updates
 
+- based on youtube video, decided to try codeium 
 - enabled clipboard on keymaps
 - added ftdetect/md.vim > set nospell
 - disabled squiggly lines on spell check -> :set nospell
