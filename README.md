@@ -8,6 +8,7 @@ my customized version of LazyVim
 
 ### change/updates
 
+- installed graphql-language-server-cli 11/09/2024
 - based on youtube video, decided to try codeium (codeium.lua works)
 - enabled clipboard on keymaps
 - added ftdetect/md.vim > set nospell
