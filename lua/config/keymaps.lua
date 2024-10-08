@@ -150,7 +150,7 @@ vim.keymap.set("t", "<Esc><Esc>", "<C-\\><C-n>", { desc = "Exit terminal mode" }
 
 -- jimmy desu
 vim.keymap.set("n", ";", ":", { desc = "CMD enter command mode" })
-vim.keymap.set("i", "hh", "<ESC>")
+vim.keymap.set("i", "xx", "<ESC>")
 vim.keymap.set("n", "j", "gj")
 vim.keymap.set("n", "k", "gk")
 vim.keymap.set("v", "j", "gj")
