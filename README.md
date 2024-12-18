@@ -8,7 +8,7 @@ my customized version of LazyVim
 
 ### change/updates
 
-. Disabled auto-complete. See options.lua
+. To disable auto-complete, See options.lua
 - installed graphql-language-server-cli //
 - based on youtube video, decided to try codeium (codeium.lua works)
 - enabled clipboard on keymaps
