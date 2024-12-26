@@ -9,9 +9,10 @@ my customized version of LazyVim
 ### change/updates
 
 . To disable auto-complete, See options.lua
+. codeium auth to get auth token https://codeium.com/authorize
 - installed graphql-language-server-cli //
 - based on youtube video, decided to try codeium (codeium.lua works)
-- enabled clipboard on keymaps
+- enabled clipboard on keymaps, install xclip first
 - added ftdetect/md.vim > set nospell
 - disabled squiggly lines on spell check -> :set nospell
 - added uncomment.vim on ftdetect july2024

@@ -54,6 +54,7 @@ vim.opt.showmode = false
 --  Remove this option if you want your OS clipboard to remain independent.
 --  See `:help 'clipboard'`
 vim.opt.clipboard = "unnamedplus"
+-- vim.g.clipboard = "unnamedplus"
 --vim.opt.clipboard = append({ "unnamedplus" })
 
 -- Enable break indent
