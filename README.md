@@ -8,6 +8,7 @@ my customized version of LazyVim
 
 ### change/updates
 
+. 12feb2025 - enabled nvim-cmp bec golang dev for own projects
 . 12jan2025 - started rustmlai, masonInstalled rust-analyzer (rustfmt deprecated)
 . To disable auto-complete, See options.lua
 . codeium auth to get auth token https://codeium.com/authorize
