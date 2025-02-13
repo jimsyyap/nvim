@@ -8,6 +8,7 @@ my customized version of LazyVim
 
 ### change/updates
 
+- disabled blink.cmp in disabled.lua > joy
 . 12feb2025 - enabled nvim-cmp bec golang dev for own projects(see disabled.lua)
 . 12jan2025 - started rustmlai, masonInstalled rust-analyzer (rustfmt deprecated)
 . To disable auto-complete, See options.lua
@@ -45,6 +46,7 @@ my customized version of LazyVim
 
 ### just dont
 
+- nvim-cmp...you have codeium anyway
 - tlint for php/blade...no joy
 - line numbers and relative numbers are off. Didnt fix redraw issue
 - *you've seen the oil.nvim tutorial...not relevant at this time.
