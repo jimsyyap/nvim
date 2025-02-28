@@ -8,6 +8,8 @@ my customized version of LazyVim
 
 ### change/updates
 
+. MasonInstalled graphql-language-server
+- masonInstalled delve for golang error handling. Joy?
 - disabled blink.cmp in disabled.lua > joy
 . 12feb2025 - enabled nvim-cmp bec golang dev for own projects(see disabled.lua)
 . 12jan2025 - started rustmlai, masonInstalled rust-analyzer (rustfmt deprecated)

@@ -4,3 +4,4 @@
 -- vim.g.lazyvim_cmp = "nvim_cmp"
 -- vim.g.clipboard = "unnamedplus"
 -- vim.g.lazyvim_cmp = "disabled"
+vim.g.snacks_animate = false
